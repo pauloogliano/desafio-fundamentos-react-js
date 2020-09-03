@@ -34,3 +34,7 @@ export const Container = styled.div<ContainerProps>`
     }
   }
 `;
+
+export const Navlink = styled.a`
+  color: #f88541;
+`;
